@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**aymericzip/aymericzip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```diff
+- /* TODO: write something smart and informative for this README file */
+- /* TODO: write something informative for this README file */
+- /* TODO: write something useful for this README file */
+- /* TODO: write something for this README file */
+- /* TODO: write something related to what I do */
++ /* TODO:Try to reinvent the developer world by offering a new i18n solution that rethinks developer scalability */
+```
 
-Here are some ideas to get you started:
+## ☕ About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m **aymericzip**, a developer who believes the best ideas happen between two sips of coffee. 🌱
+When I’m not chasing git push dopamine, you’ll find me turning thoughts into scalable code and writing docs that (hopefully) make future‑me smile.
+
+---
+
+## 📈 GitHub stats
+
+![\<aymericzip>'s GitHub stats](https://github-readme-stats.vercel.app/api?username=aymericzip\&show_icons=true\&theme=default\&hide_border=true)
