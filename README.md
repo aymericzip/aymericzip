@@ -1,5 +1,3 @@
-# Hey there 👋
-
 ```diff
 - /* TODO: write something smart and informative for this README file */
 - /* TODO: write something informative for this README file */
