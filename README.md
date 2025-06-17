@@ -2,7 +2,7 @@
 - /* TODO: write something smart and informative for this README file */
 - /* TODO: write something for this README file */
 - /* TODO: write something related to what I do */
-+ /* TODO: Try to reinvent the developer world by offering a new i18n solution that rethinks development scalability */
++ /* Try to reinvent the developer world by offering a new i18n solution that rethinks development scalability */
 ```
 
 ## About me
