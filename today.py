@@ -32,6 +32,7 @@ STATS_FILE = 'cache/stats.json'
 LOC_FILE = 'cache/loc.json'
 
 WIDTH = 60  # characters per line in the info panel
+ART_SHARE = 0.35  # fraction of the card width taken by the ASCII art
 
 ABOUT = (
     'I’m aymericzip, a developer who believes the best ideas happen by pushing again and again. '
@@ -40,10 +41,6 @@ ABOUT = (
 )
 
 ASCII_ART = r"""
-=*++*+++++++++=++++=+=+=++=========+========================-=
-+++++++++++++++++++++++++++=+===================-=============
-+++++++++++++++++++++++=+++=====+============================-
-+++++++++++++++++++++++=+=++++=+==+====================-=--===
 +*+++++++++++++++++=++++++++++++=+=+=+=========+======-====-==
 *++*++++++++++++++++++=++++*%*#+##+==+==================-=====
 +++++**++++++++++++#%%*%%%##%%#%#%%%*++*+==================-==
@@ -79,12 +76,6 @@ ASCII_ART = r"""
 #######*******:==-:%++===**#=-==--==*=++++*%====**************
 *####==--+*----.=-.=+++==+*++===+=*++=====+#-:=:=:+*********+*
 ##=---=-:==-:---.:=-++=--=++++===+===--===+*--=+::=:=#********
-:-:-:::-=-:-:==:-.*.+++=-==-======-----===+*-..-===-::=**#****
-=====+*:::=-+-=:.:=:==+==-=-=------------=++----::==--=:-==***
-=====-=.-==+=::=---:+==+=-==-=---=------===.---=-::-::=--::-+-
-::::==:--==-.--..==:.+=+=-==-==--------=-=..=-::.=:--==.=-+-:=
--::==::::+::.-=:-:=:.+=+=--=----==-------..====:.=-++=::-:---:
-:=-=::.:+=-:-::...-:..+=+-=---=---==-=-=...:..---:=-=.-=-=::::
 """.strip('\n').split('\n')
 
 # The art is drawn for light-on-dark; swap the density ramp for dark-on-light.
@@ -354,9 +345,13 @@ def build_rows(stats):
 def render(theme_name, rows):
     theme = THEMES[theme_name]
     line_height, top, art_x = 20, 30, 15
-    info_x = art_x + int(max(map(len, ASCII_ART)) * 9.6) + 25
-    height = top + line_height * (len(ASCII_ART) - 1) + 20
-    width = info_x + int(WIDTH * 9.6) + 20
+    info_w = int(WIDTH * 9.6)
+    width = round((art_x + 25 + info_w + 20) / (1 - ART_SHARE))
+    info_x = width - 20 - info_w
+    # Shrink the art's font so it spans ART_SHARE of the width (9.6px per char at 16px).
+    art_scale = ART_SHARE * width / (max(map(len, ASCII_ART)) * 9.6)
+    art_line = line_height * art_scale
+    height = top + round(max(art_line * (len(ASCII_ART) - 1), line_height * (len(rows) - 1))) + 20
 
     art = ASCII_ART
     if theme['invert']:
@@ -377,10 +372,10 @@ def render(theme_name, rows):
         'text, tspan {white-space: pre;}',
         '</style>',
         f'<rect width="{width}px" height="{height}px" fill="{theme["bg"]}" rx="15"/>',
-        f'<text x="{art_x}" y="{top}" fill="{theme["text"]}" class="ascii">',
+        f'<text x="{art_x}" y="{top}" fill="{theme["text"]}" font-size="{16 * art_scale:.2f}px" class="ascii">',
     ]
     for i, line in enumerate(art):
-        out.append(f'<tspan x="{art_x}" y="{top + i * line_height}">{escape(line)}</tspan>')
+        out.append(f'<tspan x="{art_x}" y="{top + i * art_line:.1f}">{escape(line)}</tspan>')
     out.append('</text>')
 
     out.append(f'<text x="{info_x}" y="{top}" fill="{theme["text"]}">')
