@@ -23,6 +23,12 @@
   "del": 822525,
   "total": 3
  },
+ "aymericzip/IDE": {
+  "add": 17010,
+  "commits": 48,
+  "del": 6408,
+  "total": 48
+ },
  "aymericzip/ai-site": {
   "add": 125,
   "commits": 1,
@@ -42,10 +48,10 @@
   "total": 7
  },
  "aymericzip/aymericzip": {
-  "add": 40,
-  "commits": 8,
-  "del": 29,
-  "total": 8
+  "add": 847,
+  "commits": 9,
+  "del": 33,
+  "total": 9
  },
  "aymericzip/benchmark-intl": {
   "add": 9145,
@@ -95,17 +101,35 @@
   "del": 3739,
   "total": 15
  },
+ "aymericzip/intlayer-angular-22-template": {
+  "add": 17196,
+  "commits": 12,
+  "del": 15922,
+  "total": 12
+ },
  "aymericzip/intlayer-angular-template": {
   "add": 36905,
   "commits": 11,
   "del": 16924,
   "total": 11
  },
+ "aymericzip/intlayer-astro-template": {
+  "add": 20019,
+  "commits": 21,
+  "del": 18254,
+  "total": 22
+ },
  "aymericzip/intlayer-backend-cron": {
   "add": 397,
   "commits": 4,
   "del": 11,
   "total": 4
+ },
+ "aymericzip/intlayer-elysia-template": {
+  "add": 610,
+  "commits": 1,
+  "del": 0,
+  "total": 1
  },
  "aymericzip/intlayer-express-template": {
   "add": 2781,
@@ -130,6 +154,12 @@
   "commits": 10,
   "del": 17,
   "total": 10
+ },
+ "aymericzip/intlayer-htmx-template": {
+  "add": 339,
+  "commits": 1,
+  "del": 0,
+  "total": 1
  },
  "aymericzip/intlayer-lynx-template": {
   "add": 12355,
@@ -197,6 +227,12 @@
   "del": 15804,
   "total": 24
  },
+ "aymericzip/intlayer-remix-3-template": {
+  "add": 2513,
+  "commits": 4,
+  "del": 707,
+  "total": 4
+ },
  "aymericzip/intlayer-showcase": {
   "add": 16005,
   "commits": 2,
@@ -208,6 +244,12 @@
   "commits": 13,
   "del": 24796,
   "total": 13
+ },
+ "aymericzip/intlayer-solid-start-template": {
+  "add": 2561,
+  "commits": 2,
+  "del": 0,
+  "total": 2
  },
  "aymericzip/intlayer-sveltekit-template": {
   "add": 15071,
@@ -233,6 +275,12 @@
   "del": 2548,
   "total": 63
  },
+ "aymericzip/intlayer-vanilla-template": {
+  "add": 7741,
+  "commits": 1,
+  "del": 0,
+  "total": 1
+ },
  "aymericzip/intlayer-vite-lit-template": {
   "add": 1862,
   "commits": 8,
@@ -244,6 +292,12 @@
   "commits": 24,
   "del": 335,
   "total": 24
+ },
+ "aymericzip/intlayer-vite-react-cp": {
+  "add": 5637,
+  "commits": 5,
+  "del": 24,
+  "total": 5
  },
  "aymericzip/intlayer-vite-react-template": {
   "add": 36383,
@@ -311,6 +365,18 @@
   "del": 0,
   "total": 1
  },
+ "aymericzip/staticFunctionMiddleware_repro": {
+  "add": 2878187,
+  "commits": 6,
+  "del": 2763986,
+  "total": 6
+ },
+ "dospolov/kolo-app": {
+  "add": 0,
+  "commits": 0,
+  "del": 0,
+  "total": 911
+ },
  "dospolov/trustmap-landing": {
   "add": 0,
   "commits": 0,
@@ -322,6 +388,12 @@
   "commits": 0,
   "del": 0,
   "total": 338
+ },
+ "intlayer-org/benchmark-i18n": {
+  "add": 113792753,
+  "commits": 118,
+  "del": 20081386,
+  "total": 137
  },
  "intlayer-org/intlayer-vs-code-extension": {
   "add": 51581,
