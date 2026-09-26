@@ -71,7 +71,12 @@ text, tspan {white-space: pre;}
 <tspan x="415" y="470" class="cc">. </tspan><tspan class="key">YouTube</tspan><tspan>:</tspan><tspan class="cc"> .................................. </tspan><tspan class="value">@aymeric_zip</tspan>
 <tspan x="415" y="510">- GitHub Stats -———————————————————————————————————————-—-</tspan>
 <tspan x="415" y="530" class="cc">. </tspan><tspan class="key">Repos</tspan><tspan>:</tspan><tspan class="cc"> .. </tspan><tspan class="value">87</tspan><tspan> {</tspan><tspan class="key">Contributed</tspan><tspan>: </tspan><tspan class="value">95</tspan><tspan>}</tspan><tspan> | </tspan><tspan class="key">Stars</tspan><tspan>:</tspan><tspan class="cc"> .......... </tspan><tspan class="value">1,087</tspan>
+<<<<<<< HEAD
 <tspan x="415" y="550" class="cc">. </tspan><tspan class="key">Commits</tspan><tspan>:</tspan><tspan class="cc"> ................ </tspan><tspan class="value">8,561</tspan><tspan> | </tspan><tspan class="key">Followers</tspan><tspan>:</tspan><tspan class="cc"> ........ </tspan><tspan class="value">87</tspan>
 <tspan x="415" y="570" class="cc">. </tspan><tspan class="key">Lines of Code</tspan><tspan>:</tspan><tspan class="cc"> </tspan><tspan class="value">105,062,402</tspan><tspan> ( </tspan><tspan class="add">158,386,201++</tspan><tspan>, </tspan><tspan class="del">53,323,799--</tspan><tspan> )</tspan>
+=======
+<tspan x="415" y="550" class="cc">. </tspan><tspan class="key">Commits</tspan><tspan>:</tspan><tspan class="cc"> ................ </tspan><tspan class="value">8,560</tspan><tspan> | </tspan><tspan class="key">Followers</tspan><tspan>:</tspan><tspan class="cc"> ........ </tspan><tspan class="value">87</tspan>
+<tspan x="415" y="570" class="cc">. </tspan><tspan class="key">Lines of Code</tspan><tspan>:</tspan><tspan class="cc"> </tspan><tspan class="value">105,061,599</tspan><tspan> ( </tspan><tspan class="add">158,385,394++</tspan><tspan>, </tspan><tspan class="del">53,323,795--</tspan><tspan> )</tspan>
+>>>>>>> cfdc485 (Add new projects and update statistics in loc.json and stats.json; create light and dark mode SVG files)
 </text>
 </svg>
