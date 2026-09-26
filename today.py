@@ -31,7 +31,7 @@ BIRTHDAY = None
 STATS_FILE = 'cache/stats.json'
 LOC_FILE = 'cache/loc.json'
 
-WIDTH = 58  # characters per line in the info panel
+WIDTH = 60  # characters per line in the info panel
 
 ABOUT = (
     'I’m aymericzip, a developer who believes the best ideas happen by pushing again and again. '
@@ -329,9 +329,9 @@ def build_rows(stats):
         kv(['Kernel'], 'Founder & Software Engineer', WIDTH),
         kv(['IDE'], 'VSCode, Cursor', WIDTH),
         [('cc', '. ')],
-        kv(['Languages', 'Programming'], 'TypeScript, JavaScript, Python', WIDTH),
-        kv(['Languages', 'Computer'], 'HTML, CSS, JSON, YAML, Markdown', WIDTH),
+        kv(['Languages', 'Programming'], 'JS, TS, React, Solid, Svelte, Vue, Angular', WIDTH),
         kv(['Languages', 'Real'], 'French, English', WIDTH),
+        kv(['Techno', 'Ops'], 'Docker, K8S', WIDTH),
         None,
         header('- About me'),
         *paragraph(ABOUT, highlight='aymericzip'),
@@ -354,7 +354,7 @@ def build_rows(stats):
 def render(theme_name, rows):
     theme = THEMES[theme_name]
     line_height, top, art_x = 20, 30, 15
-    info_x = art_x + 40 * 10
+    info_x = art_x + int(max(map(len, ASCII_ART)) * 9.6) + 25
     height = top + line_height * (len(ASCII_ART) - 1) + 20
     width = info_x + int(WIDTH * 9.6) + 20
 
