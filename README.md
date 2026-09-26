@@ -5,7 +5,9 @@
 + /* Try to reinvent the developer world by offering a new i18n solution that rethinks development scalability */
 ```
 
-## About me
-
-I’m **aymericzip**, a developer who believes the best ideas happen by pushing again and again.
-When I’m not chasing git push dopamine, you’ll find me turning thoughts into scalable code and writing docs that (hopefully) make future developers smile.
+<a href="https://github.com/aymericzip/aymericzip">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aymericzip/aymericzip/main/dark_mode.svg">
+    <img alt="Aymeric Pineau's GitHub Profile README" src="https://raw.githubusercontent.com/aymericzip/aymericzip/main/light_mode.svg">
+  </picture>
+</a>

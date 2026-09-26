@@ -1,0 +1,338 @@
+{
+ "RafaelWaka/ai-recruiter-saas": {
+  "add": 0,
+  "commits": 0,
+  "del": 0,
+  "total": 66
+ },
+ "aymericzip/CalandApp": {
+  "add": 4894,
+  "commits": 12,
+  "del": 24,
+  "total": 12
+ },
+ "aymericzip/Comming-Soon-Page-2022": {
+  "add": 52780,
+  "commits": 2,
+  "del": 0,
+  "total": 2
+ },
+ "aymericzip/DeborahHypnoseApp": {
+  "add": 2462320,
+  "commits": 3,
+  "del": 822525,
+  "total": 3
+ },
+ "aymericzip/ai-site": {
+  "add": 125,
+  "commits": 1,
+  "del": 0,
+  "total": 1
+ },
+ "aymericzip/api-refetch": {
+  "add": 3820,
+  "commits": 39,
+  "del": 1009,
+  "total": 39
+ },
+ "aymericzip/astro-react-tramplate": {
+  "add": 0,
+  "commits": 0,
+  "del": 0,
+  "total": 7
+ },
+ "aymericzip/aymericzip": {
+  "add": 40,
+  "commits": 8,
+  "del": 29,
+  "total": 8
+ },
+ "aymericzip/benchmark-intl": {
+  "add": 9145,
+  "commits": 3,
+  "del": 8289,
+  "total": 3
+ },
+ "aymericzip/esbuild-fix-imports-plugin": {
+  "add": 4687,
+  "commits": 37,
+  "del": 275,
+  "total": 41
+ },
+ "aymericzip/fetch-competitors": {
+  "add": 21316,
+  "commits": 81,
+  "del": 10108,
+  "total": 81
+ },
+ "aymericzip/i18n-seo-scanner": {
+  "add": 13238,
+  "commits": 15,
+  "del": 9913,
+  "total": 15
+ },
+ "aymericzip/intlayer": {
+  "add": 35093164,
+  "commits": 7223,
+  "del": 28954101,
+  "total": 7496
+ },
+ "aymericzip/intlayer-adonis-template": {
+  "add": 264,
+  "commits": 9,
+  "del": 15,
+  "total": 9
+ },
+ "aymericzip/intlayer-analog-template": {
+  "add": 13310,
+  "commits": 14,
+  "del": 58,
+  "total": 14
+ },
+ "aymericzip/intlayer-angular-19-template": {
+  "add": 4375,
+  "commits": 15,
+  "del": 3739,
+  "total": 15
+ },
+ "aymericzip/intlayer-angular-template": {
+  "add": 36905,
+  "commits": 11,
+  "del": 16924,
+  "total": 11
+ },
+ "aymericzip/intlayer-backend-cron": {
+  "add": 397,
+  "commits": 4,
+  "del": 11,
+  "total": 4
+ },
+ "aymericzip/intlayer-express-template": {
+  "add": 2781,
+  "commits": 11,
+  "del": 2664,
+  "total": 11
+ },
+ "aymericzip/intlayer-fastify-template": {
+  "add": 2373,
+  "commits": 13,
+  "del": 2248,
+  "total": 13
+ },
+ "aymericzip/intlayer-github-page": {
+  "add": 35218,
+  "commits": 20,
+  "del": 21573,
+  "total": 20
+ },
+ "aymericzip/intlayer-hono-template": {
+  "add": 122,
+  "commits": 10,
+  "del": 17,
+  "total": 10
+ },
+ "aymericzip/intlayer-lynx-template": {
+  "add": 12355,
+  "commits": 21,
+  "del": 10842,
+  "total": 21
+ },
+ "aymericzip/intlayer-next-14-template": {
+  "add": 29825,
+  "commits": 26,
+  "del": 29028,
+  "total": 26
+ },
+ "aymericzip/intlayer-next-15-template": {
+  "add": 124373,
+  "commits": 46,
+  "del": 123554,
+  "total": 46
+ },
+ "aymericzip/intlayer-next-16-template": {
+  "add": 22039,
+  "commits": 35,
+  "del": 21120,
+  "total": 35
+ },
+ "aymericzip/intlayer-next-no-lolale-path-template": {
+  "add": 870,
+  "commits": 16,
+  "del": 98,
+  "total": 16
+ },
+ "aymericzip/intlayer-nuxt-3-template": {
+  "add": 28705,
+  "commits": 15,
+  "del": 27565,
+  "total": 15
+ },
+ "aymericzip/intlayer-nuxt-4-template": {
+  "add": 8568,
+  "commits": 15,
+  "del": 8183,
+  "total": 15
+ },
+ "aymericzip/intlayer-react-cra-template": {
+  "add": 42619,
+  "commits": 20,
+  "del": 38506,
+  "total": 20
+ },
+ "aymericzip/intlayer-react-native-template": {
+  "add": 95542,
+  "commits": 28,
+  "del": 84597,
+  "total": 28
+ },
+ "aymericzip/intlayer-react-router-v7-fs-routes-template": {
+  "add": 1393,
+  "commits": 19,
+  "del": 283,
+  "total": 19
+ },
+ "aymericzip/intlayer-react-router-v7-template": {
+  "add": 16922,
+  "commits": 24,
+  "del": 15804,
+  "total": 24
+ },
+ "aymericzip/intlayer-showcase": {
+  "add": 16005,
+  "commits": 2,
+  "del": 866,
+  "total": 2
+ },
+ "aymericzip/intlayer-skills": {
+  "add": 124891,
+  "commits": 13,
+  "del": 24796,
+  "total": 13
+ },
+ "aymericzip/intlayer-sveltekit-template": {
+  "add": 15071,
+  "commits": 16,
+  "del": 53,
+  "total": 16
+ },
+ "aymericzip/intlayer-tanstack-start-solid-template": {
+  "add": 2613,
+  "commits": 23,
+  "del": 1224,
+  "total": 23
+ },
+ "aymericzip/intlayer-tanstack-start-template": {
+  "add": 35277,
+  "commits": 47,
+  "del": 33537,
+  "total": 47
+ },
+ "aymericzip/intlayer-test-packages": {
+  "add": 3300,
+  "commits": 63,
+  "del": 2548,
+  "total": 63
+ },
+ "aymericzip/intlayer-vite-lit-template": {
+  "add": 1862,
+  "commits": 8,
+  "del": 521,
+  "total": 8
+ },
+ "aymericzip/intlayer-vite-preact-template": {
+  "add": 862,
+  "commits": 24,
+  "del": 335,
+  "total": 24
+ },
+ "aymericzip/intlayer-vite-react-template": {
+  "add": 36383,
+  "commits": 47,
+  "del": 30771,
+  "total": 47
+ },
+ "aymericzip/intlayer-vite-solid-template": {
+  "add": 13128,
+  "commits": 18,
+  "del": 11547,
+  "total": 18
+ },
+ "aymericzip/intlayer-vite-svelte-template": {
+  "add": 676,
+  "commits": 18,
+  "del": 126,
+  "total": 18
+ },
+ "aymericzip/intlayer-vite-vanilla-template": {
+  "add": 814,
+  "commits": 6,
+  "del": 21,
+  "total": 6
+ },
+ "aymericzip/intlayer-vite-vue-template": {
+  "add": 8905,
+  "commits": 28,
+  "del": 8129,
+  "total": 28
+ },
+ "aymericzip/next-i18next-template": {
+  "add": 23513,
+  "commits": 14,
+  "del": 14194,
+  "total": 14
+ },
+ "aymericzip/next-intl-template": {
+  "add": 27009,
+  "commits": 23,
+  "del": 17664,
+  "total": 23
+ },
+ "aymericzip/sagradafest": {
+  "add": 0,
+  "commits": 0,
+  "del": 0,
+  "total": 0
+ },
+ "aymericzip/sayaup": {
+  "add": 26577,
+  "commits": 1,
+  "del": 0,
+  "total": 1
+ },
+ "aymericzip/smart_doc_RAG": {
+  "add": 3107011,
+  "commits": 25,
+  "del": 35243,
+  "total": 26
+ },
+ "aymericzip/speaker_project": {
+  "add": 865,
+  "commits": 1,
+  "del": 0,
+  "total": 1
+ },
+ "dospolov/trustmap-landing": {
+  "add": 0,
+  "commits": 0,
+  "del": 0,
+  "total": 45
+ },
+ "dospolov/trustmap-next": {
+  "add": 0,
+  "commits": 0,
+  "del": 0,
+  "total": 338
+ },
+ "intlayer-org/intlayer-vs-code-extension": {
+  "add": 51581,
+  "commits": 168,
+  "del": 42431,
+  "total": 168
+ },
+ "winit-interview/attorney-crud": {
+  "add": 0,
+  "commits": 0,
+  "del": 0,
+  "total": 17
+ }
+}
