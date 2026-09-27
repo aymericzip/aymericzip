@@ -94,8 +94,6 @@ ASCII_ART = r"""
 ==::=+.::==:.:-:--*:++=+=-=--=---=------==+.---=.:-++=--*:*:*=
 :=:=:-:::-=-.=::.-=:+++=--=-=----=------==+.-..-.==+--=*-=+:::
 ::===+=:+=--.:=:-.-:+++=--==-=---=-----====.=----::=::=*=:-:**
---:=:+::==:+=:=:-:=:.+=++-==--=-=--=-=---..=-.=--:==::=:-:*-::
-:=:==:*---=---=:.:*:.+===-=-=-=---------..+*=--=-:=-+==*=#+-:*
 """.strip('\n').split('\n')
 
 # The art is drawn for light-on-dark; swap the density ramp for dark-on-light.
@@ -362,10 +360,9 @@ def build_rows(stats):
         kv(['Uptime'], uptime(since), WIDTH),
         kv(['Host'], 'Intlayer', WIDTH),
         kv(['Kernel'], 'Founder & Software Engineer', WIDTH),
-        kv(['IDE'], 'VSCode, Cursor', WIDTH),
         [('cc', '. ')],
         kv(['Languages', 'Programming'], 'JS, TS, React, Solid, Svelte, Vue', WIDTH),
-        kv(['Languages', 'Real'], 'French, English', WIDTH),
+        kv(['Languages', 'Real'], 'French, English, Spanish', WIDTH),
         kv(['Techno', 'Ops'], 'Docker, K8S', WIDTH),
         None,
         header('- About me'),

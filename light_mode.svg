@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="978px" height="671px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="978px" height="650px" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -15,7 +15,7 @@ size-adjust: 109%;
 .cc {fill: #c2cfde;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="978px" height="671px" fill="#f6f8fa" rx="15"/>
+<rect width="978px" height="650px" fill="#f6f8fa" rx="15"/>
 <text x="15" y="30" fill="#24292f" font-size="9.20px" class="ascii">
 <tspan x="15" y="30.0">++++=++++++++++++++++++++++++******+************#********#****</tspan>
 <tspan x="15" y="41.5">+=+++++++++++++++++*+++*+++*+**+****************#*********#***</tspan>
@@ -70,38 +70,35 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="605.1">**%%*+@%%**%@%#%##=%++*+*#*##*###*######**+@###*@%#++*##=%=%=*</tspan>
 <tspan x="15" y="616.6">%*%*%#%%%#*#@*%%@#*%+++*##*#*####*######**+@#@@#@**+##*=#*+%%%</tspan>
 <tspan x="15" y="628.1">%%***+*%+*##@%*%#@#%+++*##**#*###*#####****@*####%%*%%*=*%#%==</tspan>
-<tspan x="15" y="639.6">##%*%+%%**%+*%*%#%*%@+*++#**##*#*##*#*###@@*#@*##%**%%*%#%=#%%</tspan>
-<tspan x="15" y="651.1">%*%**%=###*###*%@%=%@+***#*#*#*#########@@+=*##*#%*#+**=*-+#%=</tspan>
 </text>
 <text x="382" y="30" fill="#24292f">
 <tspan x="382" y="30">aymeric@pineau -—————————————————————————————————————————-—-</tspan>
 <tspan x="382" y="50" class="cc">. </tspan><tspan class="key">OS</tspan><tspan>:</tspan><tspan class="cc"> ......................................... </tspan><tspan class="value">macOS, Linux</tspan>
-<tspan x="382" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan>:</tspan><tspan class="cc"> ........................ </tspan><tspan class="value">6 years, 6 months, 4 days</tspan>
+<tspan x="382" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan>:</tspan><tspan class="cc"> ........................ </tspan><tspan class="value">6 years, 6 months, 3 days</tspan>
 <tspan x="382" y="90" class="cc">. </tspan><tspan class="key">Host</tspan><tspan>:</tspan><tspan class="cc"> ........................................... </tspan><tspan class="value">Intlayer</tspan>
 <tspan x="382" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan>:</tspan><tspan class="cc"> ...................... </tspan><tspan class="value">Founder &amp; Software Engineer</tspan>
-<tspan x="382" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan><tspan>:</tspan><tspan class="cc"> ...................................... </tspan><tspan class="value">VSCode, Cursor</tspan>
-<tspan x="382" y="150" class="cc">. </tspan>
-<tspan x="382" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan>.</tspan><tspan class="key">Programming</tspan><tspan>:</tspan><tspan class="cc"> . </tspan><tspan class="value">JS, TS, React, Solid, Svelte, Vue</tspan>
-<tspan x="382" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan>.</tspan><tspan class="key">Real</tspan><tspan>:</tspan><tspan class="cc"> .......................... </tspan><tspan class="value">French, English</tspan>
-<tspan x="382" y="210" class="cc">. </tspan><tspan class="key">Techno</tspan><tspan>.</tspan><tspan class="key">Ops</tspan><tspan>:</tspan><tspan class="cc"> .................................. </tspan><tspan class="value">Docker, K8S</tspan>
-<tspan x="382" y="250">- About me -—————————————————————————————————————————————-—-</tspan>
-<tspan x="382" y="270" class="cc">. </tspan><tspan>I’m </tspan><tspan class="key">aymericzip</tspan><tspan>, a developer who believes the best ideas</tspan>
-<tspan x="382" y="290" class="cc">. </tspan><tspan>happen by pushing again and again. When I’m not chasing</tspan>
-<tspan x="382" y="310" class="cc">. </tspan><tspan>git push dopamine, you’ll find me turning thoughts into</tspan>
-<tspan x="382" y="330" class="cc">. </tspan><tspan>scalable code and writing docs that (hopefully) make</tspan>
-<tspan x="382" y="350" class="cc">. </tspan><tspan>future developers smile.</tspan>
-<tspan x="382" y="390">- Contact -——————————————————————————————————————————————-—-</tspan>
-<tspan x="382" y="410" class="cc">. </tspan><tspan class="key">Website</tspan><tspan>:</tspan><tspan class="cc"> .................................... </tspan><tspan class="value">intlayer.org</tspan>
-<tspan x="382" y="430" class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan>:</tspan><tspan class="cc"> .................................. </tspan><tspan class="value">aymericpineau</tspan>
-<tspan x="382" y="450" class="cc">. </tspan><tspan class="key">X</tspan><tspan>:</tspan><tspan class="cc"> ........................................... </tspan><tspan class="value">@aymericzip</tspan>
-<tspan x="382" y="470" class="cc">. </tspan><tspan class="key">YouTube</tspan><tspan>:</tspan><tspan class="cc"> .................................... </tspan><tspan class="value">@aymeric_zip</tspan>
-<tspan x="382" y="510">- GitHub Stats -—————————————————————————————————————————-—-</tspan>
-<tspan x="382" y="530" class="cc">. </tspan><tspan class="key">Repos</tspan><tspan>:</tspan><tspan class="cc"> .. </tspan><tspan class="value">87</tspan><tspan> {</tspan><tspan class="key">Contributed</tspan><tspan>: </tspan><tspan class="value">95</tspan><tspan>}</tspan><tspan> | </tspan><tspan class="key">Stars</tspan><tspan>:</tspan><tspan class="cc"> ............ </tspan><tspan class="value">1,087</tspan>
-<tspan x="382" y="550" class="cc">. </tspan><tspan class="key">Commits</tspan><tspan>:</tspan><tspan class="cc"> ................ </tspan><tspan class="value">8,567</tspan><tspan> | </tspan><tspan class="key">Followers</tspan><tspan>:</tspan><tspan class="cc"> .......... </tspan><tspan class="value">87</tspan>
-<tspan x="382" y="570" class="cc">. </tspan><tspan class="key">Lines of Code</tspan><tspan>:</tspan><tspan class="cc"> </tspan><tspan class="value">105,062,609</tspan><tspan> ( </tspan><tspan class="add">158,386,781++</tspan><tspan>, </tspan><tspan class="del">53,324,172--</tspan><tspan> )</tspan>
-<tspan x="382" y="590" class="cc">. </tspan><tspan class="key">Committed</tspan><tspan>:</tspan><tspan class="cc"> ........................... </tspan><tspan class="value">344 days / last 365</tspan>
-<tspan x="382" y="610" class="cc">. </tspan><tspan class="key">Committed</tspan><tspan>:</tspan><tspan class="cc"> .............................. </tspan><tspan class="value">251 days in 2026</tspan>
-<tspan x="382" y="630" class="cc">. </tspan><tspan class="key">Committed</tspan><tspan>:</tspan><tspan class="cc"> .............................. </tspan><tspan class="value">337 days in 2025</tspan>
-<tspan x="382" y="650" class="cc">. </tspan><tspan class="key">Committed</tspan><tspan>:</tspan><tspan class="cc"> .............................. </tspan><tspan class="value">187 days in 2024</tspan>
+<tspan x="382" y="130" class="cc">. </tspan>
+<tspan x="382" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan>.</tspan><tspan class="key">Programming</tspan><tspan>:</tspan><tspan class="cc"> . </tspan><tspan class="value">JS, TS, React, Solid, Svelte, Vue</tspan>
+<tspan x="382" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan>.</tspan><tspan class="key">Real</tspan><tspan>:</tspan><tspan class="cc"> ................. </tspan><tspan class="value">French, English, Spanish</tspan>
+<tspan x="382" y="190" class="cc">. </tspan><tspan class="key">Techno</tspan><tspan>.</tspan><tspan class="key">Ops</tspan><tspan>:</tspan><tspan class="cc"> .................................. </tspan><tspan class="value">Docker, K8S</tspan>
+<tspan x="382" y="230">- About me -—————————————————————————————————————————————-—-</tspan>
+<tspan x="382" y="250" class="cc">. </tspan><tspan>I’m </tspan><tspan class="key">aymericzip</tspan><tspan>, a developer who believes the best ideas</tspan>
+<tspan x="382" y="270" class="cc">. </tspan><tspan>happen by pushing again and again. When I’m not chasing</tspan>
+<tspan x="382" y="290" class="cc">. </tspan><tspan>git push dopamine, you’ll find me turning thoughts into</tspan>
+<tspan x="382" y="310" class="cc">. </tspan><tspan>scalable code and writing docs that (hopefully) make</tspan>
+<tspan x="382" y="330" class="cc">. </tspan><tspan>future developers smile.</tspan>
+<tspan x="382" y="370">- Contact -——————————————————————————————————————————————-—-</tspan>
+<tspan x="382" y="390" class="cc">. </tspan><tspan class="key">Website</tspan><tspan>:</tspan><tspan class="cc"> .................................... </tspan><tspan class="value">intlayer.org</tspan>
+<tspan x="382" y="410" class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan>:</tspan><tspan class="cc"> .................................. </tspan><tspan class="value">aymericpineau</tspan>
+<tspan x="382" y="430" class="cc">. </tspan><tspan class="key">X</tspan><tspan>:</tspan><tspan class="cc"> ........................................... </tspan><tspan class="value">@aymericzip</tspan>
+<tspan x="382" y="450" class="cc">. </tspan><tspan class="key">YouTube</tspan><tspan>:</tspan><tspan class="cc"> .................................... </tspan><tspan class="value">@aymeric_zip</tspan>
+<tspan x="382" y="490">- GitHub Stats -—————————————————————————————————————————-—-</tspan>
+<tspan x="382" y="510" class="cc">. </tspan><tspan class="key">Repos</tspan><tspan>:</tspan><tspan class="cc"> .. </tspan><tspan class="value">87</tspan><tspan> {</tspan><tspan class="key">Contributed</tspan><tspan>: </tspan><tspan class="value">95</tspan><tspan>}</tspan><tspan> | </tspan><tspan class="key">Stars</tspan><tspan>:</tspan><tspan class="cc"> ............ </tspan><tspan class="value">1,087</tspan>
+<tspan x="382" y="530" class="cc">. </tspan><tspan class="key">Commits</tspan><tspan>:</tspan><tspan class="cc"> ................ </tspan><tspan class="value">8,567</tspan><tspan> | </tspan><tspan class="key">Followers</tspan><tspan>:</tspan><tspan class="cc"> .......... </tspan><tspan class="value">87</tspan>
+<tspan x="382" y="550" class="cc">. </tspan><tspan class="key">Lines of Code</tspan><tspan>:</tspan><tspan class="cc"> </tspan><tspan class="value">105,062,609</tspan><tspan> ( </tspan><tspan class="add">158,386,781++</tspan><tspan>, </tspan><tspan class="del">53,324,172--</tspan><tspan> )</tspan>
+<tspan x="382" y="570" class="cc">. </tspan><tspan class="key">Committed</tspan><tspan>:</tspan><tspan class="cc"> ........................... </tspan><tspan class="value">344 days / last 365</tspan>
+<tspan x="382" y="590" class="cc">. </tspan><tspan class="key">Committed</tspan><tspan>:</tspan><tspan class="cc"> .............................. </tspan><tspan class="value">251 days in 2026</tspan>
+<tspan x="382" y="610" class="cc">. </tspan><tspan class="key">Committed</tspan><tspan>:</tspan><tspan class="cc"> .............................. </tspan><tspan class="value">337 days in 2025</tspan>
+<tspan x="382" y="630" class="cc">. </tspan><tspan class="key">Committed</tspan><tspan>:</tspan><tspan class="cc"> .............................. </tspan><tspan class="value">187 days in 2024</tspan>
 </text>
 </svg>
