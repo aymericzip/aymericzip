@@ -354,7 +354,7 @@ def build_rows(stats):
         kv(['Kernel'], 'Founder & Software Engineer', WIDTH),
         kv(['IDE'], 'VSCode, Cursor', WIDTH),
         [('cc', '. ')],
-        kv(['Languages', 'Programming'], 'JS, TS, React, Solid, Svelte, Vue, Angular', WIDTH),
+        kv(['Languages', 'Programming'], 'JS, TS, React, Solid, Svelte, Vue', WIDTH),
         kv(['Languages', 'Real'], 'French, English', WIDTH),
         kv(['Techno', 'Ops'], 'Docker, K8S', WIDTH),
         None,
