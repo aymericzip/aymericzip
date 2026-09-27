@@ -41,6 +41,10 @@ ABOUT = (
 )
 
 ASCII_ART = r"""
+=*++*+++++++++=++++=+=+=++=========+========================-=
++++++++++++++++++++++++++++=+===================-=============
++++++++++++++++++++++++=+++=====+============================-
++++++++++++++++++++++++=+=++++=+==+====================-=--===
 +*+++++++++++++++++=++++++++++++=+=+=+=========+======-====-==
 *++*++++++++++++++++++=++++*%*#+##+==+==================-=====
 +++++**++++++++++++#%%*%%%##%%#%#%%%*++*+==================-==
@@ -76,6 +80,12 @@ ASCII_ART = r"""
 #######*******:==-:%++===**#=-==--==*=++++*%====**************
 *####==--+*----.=-.=+++==+*++===+=*++=====+#-:=:=:+*********+*
 ##=---=-:==-:---.:=-++=--=++++===+===--===+*--=+::=:=#********
+:-:-:::-=-:-:==:-.*.+++=-==-======-----===+*-..-===-::=**#****
+=====+*:::=-+-=:.:=:==+==-=-=------------=++----::==--=:-==***
+=====-=.-==+=::=---:+==+=-==-=---=------===.---=-::-::=--::-+-
+::::==:--==-.--..==:.+=+=-==-==--------=-=..=-::.=:--==.=-+-:=
+-::==::::+::.-=:-:=:.+=+=--=----==-------..====:.=-++=::-:---:
+:=-=::.:+=-:-::...-:..+=+-=---=---==-=-=...:..---:=-=.-=-=::::
 """.strip('\n').split('\n')
 
 # The art is drawn for light-on-dark; swap the density ramp for dark-on-light.
@@ -231,6 +241,29 @@ def loc_stats(repos, owner_id):
     }
 
 
+def active_days(start, end):
+    """Days between start and end (at most one year apart) with at least one contribution."""
+    data = graphql('''
+    query($login: String!, $from: DateTime!, $to: DateTime!) {
+        user(login: $login) { contributionsCollection(from: $from, to: $to) {
+            contributionCalendar { weeks { contributionDays { contributionCount } } }
+        } }
+    }''', {'login': USER_NAME, 'from': start.isoformat() + 'Z', 'to': end.isoformat() + 'Z'})
+    weeks = data['user']['contributionsCollection']['contributionCalendar']['weeks']
+    return sum(1 for week in weeks for day in week['contributionDays'] if day['contributionCount'])
+
+
+def activity_stats():
+    now = datetime.datetime.now(datetime.timezone.utc).replace(tzinfo=None, microsecond=0)
+    return {
+        'days_last_365': active_days(now - datetime.timedelta(days=365), now),
+        'days_by_year': {
+            str(year): active_days(datetime.datetime(year, 1, 1), min(now, datetime.datetime(year, 12, 31, 23, 59, 59)))
+            for year in range(now.year - 2, now.year + 1)
+        },
+    }
+
+
 def fetch_stats():
     owner_id, created_at, followers = get_user()
     owned = get_repos(['OWNER'])
@@ -244,6 +277,7 @@ def fetch_stats():
     }
     # Forks carry mostly other people's history; skip them for LOC and commits
     stats.update(loc_stats([r for r in accessible if not r['isFork']], owner_id))
+    stats.update(activity_stats())
     return stats
 
 
@@ -339,6 +373,9 @@ def build_rows(stats):
              ['Stars'], fmt(stats['stars'])),
         then(kv(['Commits'], fmt(stats['commits']), 33), ['Followers'], fmt(stats['followers'])),
         kv(['Lines of Code'], fmt(loc_total), WIDTH - length(loc_tail)) + loc_tail,
+    ] + ([kv(['Committed'], f"{stats['days_last_365']} days / last 365", WIDTH)] if 'days_last_365' in stats else []) + [
+        kv(['Committed'], f'{days} days in {year}', WIDTH)
+        for year, days in sorted(stats.get('days_by_year', {}).items(), reverse=True)
     ]
 
 
