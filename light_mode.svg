@@ -76,7 +76,7 @@ text, tspan {white-space: pre;}
 <text x="382" y="30" fill="#24292f">
 <tspan x="382" y="30">aymeric@pineau -—————————————————————————————————————————-—-</tspan>
 <tspan x="382" y="50" class="cc">. </tspan><tspan class="key">OS</tspan><tspan>:</tspan><tspan class="cc"> ......................................... </tspan><tspan class="value">macOS, Linux</tspan>
-<tspan x="382" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan>:</tspan><tspan class="cc"> ........................ </tspan><tspan class="value">6 years, 6 months, 3 days</tspan>
+<tspan x="382" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan>:</tspan><tspan class="cc"> ........................ </tspan><tspan class="value">6 years, 6 months, 4 days</tspan>
 <tspan x="382" y="90" class="cc">. </tspan><tspan class="key">Host</tspan><tspan>:</tspan><tspan class="cc"> ........................................... </tspan><tspan class="value">Intlayer</tspan>
 <tspan x="382" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan>:</tspan><tspan class="cc"> ...................... </tspan><tspan class="value">Founder &amp; Software Engineer</tspan>
 <tspan x="382" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan><tspan>:</tspan><tspan class="cc"> ...................................... </tspan><tspan class="value">VSCode, Cursor</tspan>
@@ -97,13 +97,8 @@ text, tspan {white-space: pre;}
 <tspan x="382" y="470" class="cc">. </tspan><tspan class="key">YouTube</tspan><tspan>:</tspan><tspan class="cc"> .................................... </tspan><tspan class="value">@aymeric_zip</tspan>
 <tspan x="382" y="510">- GitHub Stats -—————————————————————————————————————————-—-</tspan>
 <tspan x="382" y="530" class="cc">. </tspan><tspan class="key">Repos</tspan><tspan>:</tspan><tspan class="cc"> .. </tspan><tspan class="value">87</tspan><tspan> {</tspan><tspan class="key">Contributed</tspan><tspan>: </tspan><tspan class="value">95</tspan><tspan>}</tspan><tspan> | </tspan><tspan class="key">Stars</tspan><tspan>:</tspan><tspan class="cc"> ............ </tspan><tspan class="value">1,087</tspan>
-<<<<<<< HEAD
-<tspan x="382" y="550" class="cc">. </tspan><tspan class="key">Commits</tspan><tspan>:</tspan><tspan class="cc"> ................ </tspan><tspan class="value">8,566</tspan><tspan> | </tspan><tspan class="key">Followers</tspan><tspan>:</tspan><tspan class="cc"> .......... </tspan><tspan class="value">87</tspan>
-<tspan x="382" y="570" class="cc">. </tspan><tspan class="key">Lines of Code</tspan><tspan>:</tspan><tspan class="cc"> </tspan><tspan class="value">105,062,569</tspan><tspan> ( </tspan><tspan class="add">158,386,645++</tspan><tspan>, </tspan><tspan class="del">53,324,076--</tspan><tspan> )</tspan>
-=======
-<tspan x="382" y="550" class="cc">. </tspan><tspan class="key">Commits</tspan><tspan>:</tspan><tspan class="cc"> ................ </tspan><tspan class="value">8,565</tspan><tspan> | </tspan><tspan class="key">Followers</tspan><tspan>:</tspan><tspan class="cc"> .......... </tspan><tspan class="value">87</tspan>
-<tspan x="382" y="570" class="cc">. </tspan><tspan class="key">Lines of Code</tspan><tspan>:</tspan><tspan class="cc"> </tspan><tspan class="value">105,062,551</tspan><tspan> ( </tspan><tspan class="add">158,386,624++</tspan><tspan>, </tspan><tspan class="del">53,324,073--</tspan><tspan> )</tspan>
->>>>>>> d6c10ad (Update light_mode.svg and today.py for consistency and accuracy in ASCII art and system information)
+<tspan x="382" y="550" class="cc">. </tspan><tspan class="key">Commits</tspan><tspan>:</tspan><tspan class="cc"> ................ </tspan><tspan class="value">8,567</tspan><tspan> | </tspan><tspan class="key">Followers</tspan><tspan>:</tspan><tspan class="cc"> .......... </tspan><tspan class="value">87</tspan>
+<tspan x="382" y="570" class="cc">. </tspan><tspan class="key">Lines of Code</tspan><tspan>:</tspan><tspan class="cc"> </tspan><tspan class="value">105,062,609</tspan><tspan> ( </tspan><tspan class="add">158,386,781++</tspan><tspan>, </tspan><tspan class="del">53,324,172--</tspan><tspan> )</tspan>
 <tspan x="382" y="590" class="cc">. </tspan><tspan class="key">Committed</tspan><tspan>:</tspan><tspan class="cc"> ........................... </tspan><tspan class="value">344 days / last 365</tspan>
 <tspan x="382" y="610" class="cc">. </tspan><tspan class="key">Committed</tspan><tspan>:</tspan><tspan class="cc"> .............................. </tspan><tspan class="value">251 days in 2026</tspan>
 <tspan x="382" y="630" class="cc">. </tspan><tspan class="key">Committed</tspan><tspan>:</tspan><tspan class="cc"> .............................. </tspan><tspan class="value">337 days in 2025</tspan>
