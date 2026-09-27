@@ -87,20 +87,11 @@ text, tspan {white-space: pre;}
 <tspan x="382" y="470" class="cc">. </tspan><tspan class="key">YouTube</tspan><tspan>:</tspan><tspan class="cc"> .................................... </tspan><tspan class="value">@aymeric_zip</tspan>
 <tspan x="382" y="510">- GitHub Stats -—————————————————————————————————————————-—-</tspan>
 <tspan x="382" y="530" class="cc">. </tspan><tspan class="key">Repos</tspan><tspan>:</tspan><tspan class="cc"> .. </tspan><tspan class="value">87</tspan><tspan> {</tspan><tspan class="key">Contributed</tspan><tspan>: </tspan><tspan class="value">95</tspan><tspan>}</tspan><tspan> | </tspan><tspan class="key">Stars</tspan><tspan>:</tspan><tspan class="cc"> ............ </tspan><tspan class="value">1,087</tspan>
-<<<<<<< HEAD
-<tspan x="382" y="550" class="cc">. </tspan><tspan class="key">Commits</tspan><tspan>:</tspan><tspan class="cc"> ................ </tspan><tspan class="value">8,565</tspan><tspan> | </tspan><tspan class="key">Followers</tspan><tspan>:</tspan><tspan class="cc"> .......... </tspan><tspan class="value">87</tspan>
-<tspan x="382" y="570" class="cc">. </tspan><tspan class="key">Lines of Code</tspan><tspan>:</tspan><tspan class="cc"> </tspan><tspan class="value">105,062,551</tspan><tspan> ( </tspan><tspan class="add">158,386,624++</tspan><tspan>, </tspan><tspan class="del">53,324,073--</tspan><tspan> )</tspan>
+<tspan x="382" y="550" class="cc">. </tspan><tspan class="key">Commits</tspan><tspan>:</tspan><tspan class="cc"> ................ </tspan><tspan class="value">8,566</tspan><tspan> | </tspan><tspan class="key">Followers</tspan><tspan>:</tspan><tspan class="cc"> .......... </tspan><tspan class="value">87</tspan>
+<tspan x="382" y="570" class="cc">. </tspan><tspan class="key">Lines of Code</tspan><tspan>:</tspan><tspan class="cc"> </tspan><tspan class="value">105,062,569</tspan><tspan> ( </tspan><tspan class="add">158,386,645++</tspan><tspan>, </tspan><tspan class="del">53,324,076--</tspan><tspan> )</tspan>
 <tspan x="382" y="590" class="cc">. </tspan><tspan class="key">Committed</tspan><tspan>:</tspan><tspan class="cc"> ........................... </tspan><tspan class="value">344 days / last 365</tspan>
 <tspan x="382" y="610" class="cc">. </tspan><tspan class="key">Committed</tspan><tspan>:</tspan><tspan class="cc"> .............................. </tspan><tspan class="value">251 days in 2026</tspan>
 <tspan x="382" y="630" class="cc">. </tspan><tspan class="key">Committed</tspan><tspan>:</tspan><tspan class="cc"> .............................. </tspan><tspan class="value">337 days in 2025</tspan>
 <tspan x="382" y="650" class="cc">. </tspan><tspan class="key">Committed</tspan><tspan>:</tspan><tspan class="cc"> .............................. </tspan><tspan class="value">187 days in 2024</tspan>
-=======
-<tspan x="382" y="550" class="cc">. </tspan><tspan class="key">Commits</tspan><tspan>:</tspan><tspan class="cc"> ................ </tspan><tspan class="value">8,564</tspan><tspan> | </tspan><tspan class="key">Followers</tspan><tspan>:</tspan><tspan class="cc"> .......... </tspan><tspan class="value">87</tspan>
-<tspan x="382" y="570" class="cc">. </tspan><tspan class="key">Lines of Code</tspan><tspan>:</tspan><tspan class="cc"> </tspan><tspan class="value">105,062,470</tspan><tspan> ( </tspan><tspan class="add">158,386,469++</tspan><tspan>, </tspan><tspan class="del">53,323,999--</tspan><tspan> )</tspan>
-<tspan x="382" y="590" class="cc">. </tspan><tspan class="key">Committed</tspan><tspan>:</tspan><tspan class="cc"> ........................... </tspan><tspan class="value">343 days / last 365</tspan>
-<tspan x="382" y="610" class="cc">. </tspan><tspan class="key">Committed</tspan><tspan>:</tspan><tspan class="cc"> .............................. </tspan><tspan class="value">250 days in 2026</tspan>
-<tspan x="382" y="630" class="cc">. </tspan><tspan class="key">Committed</tspan><tspan>:</tspan><tspan class="cc"> .............................. </tspan><tspan class="value">334 days in 2025</tspan>
-<tspan x="382" y="650" class="cc">. </tspan><tspan class="key">Committed</tspan><tspan>:</tspan><tspan class="cc"> .............................. </tspan><tspan class="value">184 days in 2024</tspan>
->>>>>>> 0bc132a (Update programming languages in SVG files and Python script for consistency)
 </text>
 </svg>
