@@ -74,7 +74,7 @@ text, tspan {white-space: pre;}
 <text x="382" y="30" fill="#24292f">
 <tspan x="382" y="30">aymeric@pineau -—————————————————————————————————————————-—-</tspan>
 <tspan x="382" y="50" class="cc">. </tspan><tspan class="key">OS</tspan><tspan>:</tspan><tspan class="cc"> ......................................... </tspan><tspan class="value">macOS, Linux</tspan>
-<tspan x="382" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan>:</tspan><tspan class="cc"> ........................ </tspan><tspan class="value">6 years, 6 months, 5 days</tspan>
+<tspan x="382" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan>:</tspan><tspan class="cc"> ........................ </tspan><tspan class="value">6 years, 6 months, 6 days</tspan>
 <tspan x="382" y="90" class="cc">. </tspan><tspan class="key">Host</tspan><tspan>:</tspan><tspan class="cc"> ........................................... </tspan><tspan class="value">Intlayer</tspan>
 <tspan x="382" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan>:</tspan><tspan class="cc"> ...................... </tspan><tspan class="value">Founder &amp; Software Engineer</tspan>
 <tspan x="382" y="130" class="cc">. </tspan>
@@ -93,11 +93,11 @@ text, tspan {white-space: pre;}
 <tspan x="382" y="430" class="cc">. </tspan><tspan class="key">X</tspan><tspan>:</tspan><tspan class="cc"> ........................................... </tspan><tspan class="value">@aymericzip</tspan>
 <tspan x="382" y="450" class="cc">. </tspan><tspan class="key">YouTube</tspan><tspan>:</tspan><tspan class="cc"> .................................... </tspan><tspan class="value">@aymeric_zip</tspan>
 <tspan x="382" y="490">- GitHub Stats -—————————————————————————————————————————-—-</tspan>
-<tspan x="382" y="510" class="cc">. </tspan><tspan class="key">Repos</tspan><tspan>:</tspan><tspan class="cc"> .. </tspan><tspan class="value">87</tspan><tspan> {</tspan><tspan class="key">Contributed</tspan><tspan>: </tspan><tspan class="value">95</tspan><tspan>}</tspan><tspan> | </tspan><tspan class="key">Stars</tspan><tspan>:</tspan><tspan class="cc"> ............ </tspan><tspan class="value">1,087</tspan>
-<tspan x="382" y="530" class="cc">. </tspan><tspan class="key">Commits</tspan><tspan>:</tspan><tspan class="cc"> ................ </tspan><tspan class="value">8,615</tspan><tspan> | </tspan><tspan class="key">Followers</tspan><tspan>:</tspan><tspan class="cc"> .......... </tspan><tspan class="value">87</tspan>
-<tspan x="382" y="550" class="cc">. </tspan><tspan class="key">Lines of Code</tspan><tspan>:</tspan><tspan class="cc">. </tspan><tspan class="value">91,209,663</tspan><tspan> ( </tspan><tspan class="add">146,779,786++</tspan><tspan>, </tspan><tspan class="del">55,570,123--</tspan><tspan> )</tspan>
+<tspan x="382" y="510" class="cc">. </tspan><tspan class="key">Repos</tspan><tspan>:</tspan><tspan class="cc"> .. </tspan><tspan class="value">87</tspan><tspan> {</tspan><tspan class="key">Contributed</tspan><tspan>: </tspan><tspan class="value">95</tspan><tspan>}</tspan><tspan> | </tspan><tspan class="key">Stars</tspan><tspan>:</tspan><tspan class="cc"> ............ </tspan><tspan class="value">1,088</tspan>
+<tspan x="382" y="530" class="cc">. </tspan><tspan class="key">Commits</tspan><tspan>:</tspan><tspan class="cc"> ................ </tspan><tspan class="value">8,631</tspan><tspan> | </tspan><tspan class="key">Followers</tspan><tspan>:</tspan><tspan class="cc"> .......... </tspan><tspan class="value">87</tspan>
+<tspan x="382" y="550" class="cc">. </tspan><tspan class="key">Lines of Code</tspan><tspan>:</tspan><tspan class="cc">. </tspan><tspan class="value">91,222,062</tspan><tspan> ( </tspan><tspan class="add">146,876,256++</tspan><tspan>, </tspan><tspan class="del">55,654,194--</tspan><tspan> )</tspan>
 <tspan x="382" y="570" class="cc">. </tspan><tspan class="key">Committed</tspan><tspan>:</tspan><tspan class="cc"> ........................... </tspan><tspan class="value">346 days / last 365</tspan>
-<tspan x="382" y="590" class="cc">. </tspan><tspan class="key">Committed</tspan><tspan>:</tspan><tspan class="cc"> .............................. </tspan><tspan class="value">253 days in 2026</tspan>
+<tspan x="382" y="590" class="cc">. </tspan><tspan class="key">Committed</tspan><tspan>:</tspan><tspan class="cc"> .............................. </tspan><tspan class="value">254 days in 2026</tspan>
 <tspan x="382" y="610" class="cc">. </tspan><tspan class="key">Committed</tspan><tspan>:</tspan><tspan class="cc"> .............................. </tspan><tspan class="value">337 days in 2025</tspan>
 <tspan x="382" y="630" class="cc">. </tspan><tspan class="key">Committed</tspan><tspan>:</tspan><tspan class="cc"> .............................. </tspan><tspan class="value">187 days in 2024</tspan>
 </text>
