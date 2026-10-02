@@ -24,10 +24,10 @@
   "total": 3
  },
  "aymericzip/IDE": {
-  "add": 17010,
-  "commits": 48,
-  "del": 6408,
-  "total": 48
+  "add": 21657,
+  "commits": 49,
+  "del": 8384,
+  "total": 49
  },
  "aymericzip/ai-site": {
   "add": 125,
@@ -51,7 +51,7 @@
   "add": 1480,
   "commits": 16,
   "del": 468,
-  "total": 28
+  "total": 29
  },
  "aymericzip/benchmark-intl": {
   "add": 9145,
@@ -78,10 +78,10 @@
   "total": 15
  },
  "aymericzip/intlayer": {
-  "add": 37588926,
-  "commits": 7341,
-  "del": 31339416,
-  "total": 7617
+  "add": 37624788,
+  "commits": 7348,
+  "del": 31366938,
+  "total": 7624
  },
  "aymericzip/intlayer-adonis-template": {
   "add": 264,
