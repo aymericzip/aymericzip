@@ -51,7 +51,7 @@
   "add": 1480,
   "commits": 16,
   "del": 468,
-  "total": 33
+  "total": 34
  },
  "aymericzip/benchmark-intl": {
   "add": 9145,
@@ -78,10 +78,10 @@
   "total": 15
  },
  "aymericzip/intlayer": {
-  "add": 37706076,
-  "commits": 7364,
-  "del": 31430483,
-  "total": 7641
+  "add": 37735931,
+  "commits": 7415,
+  "del": 31444273,
+  "total": 7692
  },
  "aymericzip/intlayer-adonis-template": {
   "add": 264,
@@ -258,16 +258,16 @@
   "total": 16
  },
  "aymericzip/intlayer-tanstack-start-solid-template": {
-  "add": 2613,
-  "commits": 23,
-  "del": 1224,
-  "total": 23
+  "add": 2621,
+  "commits": 24,
+  "del": 1232,
+  "total": 24
  },
  "aymericzip/intlayer-tanstack-start-template": {
-  "add": 35277,
-  "commits": 47,
-  "del": 33537,
-  "total": 47
+  "add": 35298,
+  "commits": 48,
+  "del": 33558,
+  "total": 48
  },
  "aymericzip/intlayer-test-packages": {
   "add": 3300,
@@ -375,7 +375,7 @@
   "add": 0,
   "commits": 0,
   "del": 0,
-  "total": 919
+  "total": 925
  },
  "dospolov/trustmap-landing": {
   "add": 0,
@@ -390,10 +390,10 @@
   "total": 338
  },
  "intlayer-org/benchmark-i18n": {
-  "add": 99880192,
-  "commits": 120,
-  "del": 20099803,
-  "total": 142
+  "add": 113930273,
+  "commits": 123,
+  "del": 20111419,
+  "total": 146
  },
  "intlayer-org/intlayer-vs-code-extension": {
   "add": 51622,
