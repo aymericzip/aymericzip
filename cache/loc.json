@@ -24,10 +24,10 @@
   "total": 3
  },
  "aymericzip/IDE": {
-  "add": 22551,
-  "commits": 50,
-  "del": 8907,
-  "total": 50
+  "add": 22779,
+  "commits": 52,
+  "del": 9111,
+  "total": 52
  },
  "aymericzip/ai-site": {
   "add": 125,
@@ -51,7 +51,7 @@
   "add": 1480,
   "commits": 16,
   "del": 468,
-  "total": 68
+  "total": 69
  },
  "aymericzip/benchmark-intl": {
   "add": 9145,
@@ -66,10 +66,10 @@
   "total": 41
  },
  "aymericzip/fetch-competitors": {
-  "add": 21316,
-  "commits": 81,
-  "del": 10108,
-  "total": 81
+  "add": 21799,
+  "commits": 84,
+  "del": 10641,
+  "total": 84
  },
  "aymericzip/i18n-seo-scanner": {
   "add": 13238,
@@ -78,10 +78,10 @@
   "total": 15
  },
  "aymericzip/intlayer": {
-  "add": 38161879,
-  "commits": 7539,
-  "del": 31665187,
-  "total": 7832
+  "add": 38166661,
+  "commits": 7547,
+  "del": 31675175,
+  "total": 7840
  },
  "aymericzip/intlayer-adonis-template": {
   "add": 264,
@@ -270,10 +270,10 @@
   "total": 48
  },
  "aymericzip/intlayer-test-packages": {
-  "add": 3390,
-  "commits": 65,
-  "del": 2598,
-  "total": 65
+  "add": 3405,
+  "commits": 66,
+  "del": 2613,
+  "total": 66
  },
  "aymericzip/intlayer-vanilla-template": {
   "add": 7741,
