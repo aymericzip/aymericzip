@@ -51,7 +51,7 @@
   "add": 1480,
   "commits": 16,
   "del": 468,
-  "total": 78
+  "total": 79
  },
  "aymericzip/benchmark-intl": {
   "add": 9145,
@@ -84,10 +84,10 @@
   "total": 15
  },
  "aymericzip/intlayer": {
-  "add": 38203354,
-  "commits": 7625,
-  "del": 31898224,
-  "total": 7918
+  "add": 38203602,
+  "commits": 7627,
+  "del": 31898348,
+  "total": 7920
  },
  "aymericzip/intlayer-adonis-template": {
   "add": 264,
