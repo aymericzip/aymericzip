@@ -51,7 +51,7 @@
   "add": 1480,
   "commits": 16,
   "del": 468,
-  "total": 79
+  "total": 80
  },
  "aymericzip/benchmark-intl": {
   "add": 9145,
@@ -60,10 +60,10 @@
   "total": 3
  },
  "aymericzip/crm": {
-  "add": 44507,
-  "commits": 42,
-  "del": 5242,
-  "total": 42
+  "add": 44690,
+  "commits": 44,
+  "del": 5350,
+  "total": 44
  },
  "aymericzip/esbuild-fix-imports-plugin": {
   "add": 4687,
@@ -84,10 +84,10 @@
   "total": 15
  },
  "aymericzip/intlayer": {
-  "add": 38203602,
-  "commits": 7627,
-  "del": 31898348,
-  "total": 7920
+  "add": 38214463,
+  "commits": 7659,
+  "del": 31903552,
+  "total": 7952
  },
  "aymericzip/intlayer-adonis-template": {
   "add": 264,
